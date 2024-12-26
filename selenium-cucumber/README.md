@@ -29,4 +29,6 @@ Clone the repository to your local machine:
 git clone https://github.com/yourusername/selenium-cucumber-test.git
 cd selenium-cucumber-test
 
+npm ci
+
 npx cucumber-js
