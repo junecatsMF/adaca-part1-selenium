@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed on your system:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/selenium-cucumber-test.git
+git clone https://github.com/junecatsMF/adaca-part1-selenium.git
 cd selenium-cucumber-test
 
 npm ci
